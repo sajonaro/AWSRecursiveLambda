@@ -1,0 +1,11 @@
+C:\poc\AWSLambdaFibonacci\bin\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.deps.json
+C:\poc\AWSLambdaFibonacci\bin\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.runtimeconfig.json
+C:\poc\AWSLambdaFibonacci\bin\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.runtimeconfig.dev.json
+C:\poc\AWSLambdaFibonacci\bin\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.dll
+C:\poc\AWSLambdaFibonacci\bin\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.pdb
+C:\poc\AWSLambdaFibonacci\obj\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.csprojAssemblyReference.cache
+C:\poc\AWSLambdaFibonacci\obj\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.csproj.CoreCompileInputs.cache
+C:\poc\AWSLambdaFibonacci\obj\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.AssemblyInfoInputs.cache
+C:\poc\AWSLambdaFibonacci\obj\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.AssemblyInfo.cs
+C:\poc\AWSLambdaFibonacci\obj\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.dll
+C:\poc\AWSLambdaFibonacci\obj\Release\netcoreapp2.1\rhel.7.2-x64\MessageQueueRecursiveListener.pdb

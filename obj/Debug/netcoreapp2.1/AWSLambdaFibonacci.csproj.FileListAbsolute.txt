@@ -1,0 +1,8 @@
+C:\poc\AWSLambdaFibonacci\bin\Debug\netcoreapp2.1\AWSLambdaFibonacci.deps.json
+C:\poc\AWSLambdaFibonacci\bin\Debug\netcoreapp2.1\AWSLambdaFibonacci.runtimeconfig.json
+C:\poc\AWSLambdaFibonacci\bin\Debug\netcoreapp2.1\AWSLambdaFibonacci.runtimeconfig.dev.json
+C:\poc\AWSLambdaFibonacci\bin\Debug\netcoreapp2.1\AWSLambdaFibonacci.dll
+C:\poc\AWSLambdaFibonacci\obj\Debug\netcoreapp2.1\AWSLambdaFibonacci.csprojAssemblyReference.cache
+C:\poc\AWSLambdaFibonacci\obj\Debug\netcoreapp2.1\AWSLambdaFibonacci.csproj.CoreCompileInputs.cache
+C:\poc\AWSLambdaFibonacci\obj\Debug\netcoreapp2.1\AWSLambdaFibonacci.AssemblyInfoInputs.cache
+C:\poc\AWSLambdaFibonacci\obj\Debug\netcoreapp2.1\AWSLambdaFibonacci.AssemblyInfo.cs
